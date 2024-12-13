@@ -44,42 +44,9 @@ pip install -r requirements.txt
    pip install -r requirements.txt
    ```
 
-3. **Open the project**:
-
-   Launch Jupyter Notebook and open `video_recommender.ipynb`:
-
-   ```bash
-   jupyter notebook
-   ```
-
-4. **Run the notebook**:
-
-   Execute the cells in `video_recommender.ipynb` sequentially to:
-   - Load the dataset
-   - Perform PCA for dimensionality reduction
-   - Apply K-Means clustering
-   - Visualize the results
-
-5. **Test the system**:
-
-   Modify the input data or parameters to observe changes in clustering and recommendations.
-
 ## Files
 
 - `video_recommender.ipynb`: Main notebook containing the implementation.
 - `requirements.txt`: List of Python dependencies.
 - `README.md`: Documentation and setup instructions (this file).
 
-## Usage
-
-The notebook provides an interactive environment where you can:
-
-- Load and preprocess video-related data.
-- Adjust the number of PCA components (`n_components`) for dimensionality reduction.
-- Change the number of clusters in K-Means to explore different groupings.
-- Visualize clusters and their principal components.
-
-## Notes
-
-- Ensure your dataset is in the correct format before loading.
-- Fine-tune the number of components in PCA and clusters in K-Means to optimize results for your specific dataset.
