@@ -50,3 +50,5 @@ pip install -r requirements.txt
 - `requirements.txt`: List of Python dependencies.
 - `README.md`: Documentation and setup instructions (this file).
 
+## Explanation video 
+- `https://drive.google.com/file/d/16AWpL-RRiV9qhYDx41VVlyaUiKPe-7DJ/view?usp=share_link`
